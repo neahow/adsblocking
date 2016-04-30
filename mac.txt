@@ -43,7 +43,6 @@ baike.baidu.com###adLayerSideWrap
 fanyi.baidu.com##div.banner-wrap.inner
 pan.baidu.com,music.baidu.com,yun.baidu.com##[class|=ad]
 v.baidu.com##div#search-union-ad,div.text-advertise,a[static="tn=kanShort_hao123&bl=experienceAD"],div.coop-suning,div.adv-container,div[videoadv]
-wenku.baidu.com##div.mod.lastcell-dialog
 |http://static.wenku.bdimg.com/static/wkview/widget/crmAd/
 www.baidu.com###content_left>div:not(.c-container)
 zhidao.baidu.com##div#left-promotion,div#ui-tooltip-0,div.cms-slide.cms-slide-optimus,div.wgt-bottom-ask,div.cms-slide.cms-slide-lazy
